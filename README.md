@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity and Network Projects:</h2>
 
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Hello World!](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Active Directory Home Lab](https://github.com/alfonsonyc2005/ActiveDirectoryLab/tree/main)
+  - [Hello World!](https://github.com/alfonsonyc2005/ActiveDirectoryLab/tree/main)
 
 <h2> 🧾Certifications</h2>
 
