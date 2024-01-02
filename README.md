@@ -1,4 +1,4 @@
-<h1>Hi, I'm Alfonso! <br/><Cybersecurity Professional</a>, <>Cloud Engineer</a></h1>
+<h1>Hi, I'm Alfonso! <br/><Cybersecurity Professional</a>, Cloud Engineer</a></h1>
 
 <h2>👨‍💻 Cybersecurity and Network Projects:</h2>
 
