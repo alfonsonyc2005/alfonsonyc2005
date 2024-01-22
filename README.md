@@ -8,10 +8,10 @@
 
 <h2>📄Certifications</h2>
 
-- [CompTIA Network+](https://imgur.com/DQ1N8tt.png)
-- [CompTIA Security+](https://imgur.com/86aRMcw)
-- [Microsoft Certified: Azure Fundamentals](https://imgur.com/NbhwyzP.png)
-- [ISC2 Certified in Cybersecurity](https://imgur.com/NbhwyzP.png)
+- [CompTIA Network+](https://i.imgur.com/0BQsDTn.png)
+- [CompTIA Security+](https://i.imgur.com/v02VNvs.png)
+- [Microsoft Certified: Azure Fundamentals](https://i.imgur.com/2FU0Nmz.png)
+- [ISC2 Certified in Cybersecurity](https://i.imgur.com/9BQbLBS.png)
 
 <h2> 🤳 Connect with me:</h2>
 
