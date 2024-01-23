@@ -9,9 +9,8 @@
 <h2>📄Certifications</h2>
 
 - [CompTIA Network+](https://raw.githubusercontent.com/alfonsonyc2005/alfonsonyc2005/main/network.png)
-
 - [CompTIA Security+](https://github.com/alfonsonyc2005/alfonsonyc2005/assets/141835414/2a470ed5-8388-48a7-89b4-d10cbd9aa585)
-- [Microsoft Certified: Azure Fundamentals](https://github.com/alfonsonyc2005/alfonsonyc2005/assets/141835414/2a470ed5-8388-48a7-89b4-d10cbd9aa585)
+- [Microsoft Certified: Azure Fundamentals](https://raw.githubusercontent.com/alfonsonyc2005/alfonsonyc2005/main/microsoft.png)
 - [ISC2 Certified in Cybersecurity](https://github.com/alfonsonyc2005/alfonsonyc2005/assets/141835414/2a470ed5-8388-48a7-89b4-d10cbd9aa585)
 
 <h2> 🤳 Connect with me:</h2>
