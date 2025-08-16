@@ -16,7 +16,7 @@
 - [CompTIA Network+](https://raw.githubusercontent.com/alfonsonyc2005/alfonsonyc2005/main/network.png)
 - [CompTIA Security+](https://raw.githubusercontent.com/alfonsonyc2005/alfonsonyc2005/main/security.png)
 - [Microsoft Certified: Azure Fundamentals](https://raw.githubusercontent.com/alfonsonyc2005/alfonsonyc2005/main/microsoft.png)
-- [Microsoft Certified: Security, Compliance, and Identity Fundamentals](https://github.com/alfonsonyc2005/alfonsonyc2005/blob/main/MSsecurity.png))
+- [Microsoft Certified: Security, Compliance, and Identity Fundamentals](https://github.com/alfonsonyc2005/alfonsonyc2005/blob/main/MSsecurity.png)
 
 <h2> 🤳 Connect with me:</h2>
 
