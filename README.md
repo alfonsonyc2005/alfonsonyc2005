@@ -16,6 +16,7 @@
 - [CISSP - Certified Information Security Professional](https://raw.githubusercontent.com/alfonsonyc2005/alfonsonyc2005/main/CISSP.png)
 - [Microsoft Certified: Azure Fundamentals (AZ-900)](https://raw.githubusercontent.com/alfonsonyc2005/alfonsonyc2005/main/microsoft.png)
 - [Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)](https://raw.githubusercontent.com/alfonsonyc2005/alfonsonyc2005/main/MSsecurity.png)
+- [GRC Mastery](https://raw.githubusercontent.com/alfonsonyc2005/alfonsonyc2005/main/GRCMastery.png)
 
 <h2> 🤳 Connect with me:</h2>
 
