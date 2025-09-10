@@ -13,7 +13,7 @@
 
 <h2>📄Certifications</h2>
 
-- [CompTIA Network+](https://raw.githubusercontent.com/alfonsonyc2005/alfonsonyc2005/main/network.png)
+- [CISSP - Certified Information Security Professional](https://raw.githubusercontent.com/alfonsonyc2005/alfonsonyc2005/main/CISSP.png)
 - [CompTIA Security+](https://raw.githubusercontent.com/alfonsonyc2005/alfonsonyc2005/main/security.png)
 - [Microsoft Certified: Azure Fundamentals](https://raw.githubusercontent.com/alfonsonyc2005/alfonsonyc2005/main/microsoft.png)
 - [Microsoft Certified: Security, Compliance, and Identity Fundamentals](https://raw.githubusercontent.com/alfonsonyc2005/alfonsonyc2005/main/MSsecurity.png)
