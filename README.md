@@ -4,7 +4,7 @@
 <h2>👨‍💻 My Projects:</h2>
 
 - <b>Azure / Cloud Cybersecurity Project</b>
-  - [Creating a Live SOC / Honeynet in Azure](https://github.com/alfonsonyc2005/Azure-SOC)
+  - [Creating a Live SOC / Honeynet in Azure](https://github.com/alfonsonyc2005/Azure-SOC/blob/main/README.md)
 
 - <b>Active Directory Home Lab using PowerShell</b>
   - [Active Directory Home Lab](https://github.com/alfonsonyc2005/Active_DirectoryLab/blob/main/README.md)
