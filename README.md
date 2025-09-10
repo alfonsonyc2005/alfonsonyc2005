@@ -7,7 +7,8 @@
   - [Creating a Live SOC / Honeynet in Azure](https://github.com/alfonsonyc2005/Azure-SOC)
 
 - <b>Active Directory Home Lab using PowerShell</b>
-  - [Active Directory Home Lab](https://github.com/alfonsonyc2005/Active_DirectoryLab)
+  - [Active Directory Home Lab](https://github.com/alfonsonyc2005/Active_DirectoryLab/blob/main/README.md)
+  
 
 
 
