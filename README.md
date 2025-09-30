@@ -3,6 +3,9 @@
 
 <h2>👨‍💻 My Projects:</h2>
 
+- <b>IAM Project: From On-Premises to Modern Hybrid Identity with SSO</b>
+  - [On-Prem to Hybrid Identity with SSO](https://github.com/alfonsonyc2005/IAM_Lab)
+
 - <b>Azure / Cloud Cybersecurity Project</b>
   - [Creating a Live SOC / Honeynet in Azure](https://github.com/alfonsonyc2005/Azure-SOC/blob/main/README.md)
 
