@@ -12,7 +12,7 @@
 - <b>Active Directory Home Lab using PowerShell</b>
   - [Active Directory Home Lab](https://github.com/alfonsonyc2005/Active_DirectoryLab/blob/main/README.md)
   
-https://raw.githubusercontent.com/alfonsonyc2005/alfonsonyc2005/main/CISSP.png
+- [Microsoft Certified: Azure Fundamentals (AZ-900)](https://raw.githubusercontent.com/alfonsonyc2005/alfonsonyc2005/main/microsoft.png)
 
 
 <h2>📄Certifications</h2>
@@ -20,7 +20,9 @@ https://raw.githubusercontent.com/alfonsonyc2005/alfonsonyc2005/main/CISSP.png
  <a href="https://raw.githubusercontent.com/alfonsonyc2005/alfonsonyc2005/main/ISC@.png" target="_blank">
   <img src="CISSP.png" alt="Certificate" width="200"/>
 </a>
-- [Microsoft Certified: Azure Fundamentals (AZ-900)](https://raw.githubusercontent.com/alfonsonyc2005/alfonsonyc2005/main/microsoft.png)
+ <a href="https://raw.githubusercontent.com/alfonsonyc2005/alfonsonyc2005/main/microsoft.png" target="_blank">
+  <img src="az900.png" alt="Certificate" width="200"/>
+</a>
 - [Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)](https://raw.githubusercontent.com/alfonsonyc2005/alfonsonyc2005/main/MSsecurity.png)
 - [GRC Mastery](https://raw.githubusercontent.com/alfonsonyc2005/alfonsonyc2005/main/grcmastery.png)
  <a href="https://raw.githubusercontent.com/alfonsonyc2005/alfonsonyc2005/main/MSsecurity.png" target="_blank">
