@@ -12,12 +12,14 @@
 - <b>Active Directory Home Lab using PowerShell</b>
   - [Active Directory Home Lab](https://github.com/alfonsonyc2005/Active_DirectoryLab/blob/main/README.md)
   
-
+https://raw.githubusercontent.com/alfonsonyc2005/alfonsonyc2005/main/CISSP.png
 
 
 <h2>📄Certifications</h2>
 
-- [CISSP - Certified Information Security Professional](https://raw.githubusercontent.com/alfonsonyc2005/alfonsonyc2005/main/CISSP.png)
+ <a href="https://raw.githubusercontent.com/alfonsonyc2005/alfonsonyc2005/main/CISSP.png" target="_blank">
+  <img src="CISSP.png" alt="Certificate" width="200"/>
+</a>
 - [Microsoft Certified: Azure Fundamentals (AZ-900)](https://raw.githubusercontent.com/alfonsonyc2005/alfonsonyc2005/main/microsoft.png)
 - [Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)](https://raw.githubusercontent.com/alfonsonyc2005/alfonsonyc2005/main/MSsecurity.png)
 - [GRC Mastery](https://raw.githubusercontent.com/alfonsonyc2005/alfonsonyc2005/main/grcmastery.png)
