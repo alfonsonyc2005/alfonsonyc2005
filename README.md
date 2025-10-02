@@ -11,7 +11,7 @@
 
 - <b>Active Directory Home Lab using PowerShell</b>
   - [Active Directory Home Lab](https://github.com/alfonsonyc2005/Active_DirectoryLab/blob/main/README.md)
-  
+  https://github.com/alfonsonyc2005/alfonsonyc2005/blob/795bc78aa50f38a94ba7a7fae58f46a142df526d/SplunkCoreCertifiedUser_Badge20251002-28-nfqe5e.pdf
 
 <br><br>
 
@@ -30,7 +30,9 @@
  <a href="https://raw.githubusercontent.com/alfonsonyc2005/alfonsonyc2005/main/grcmastery.png" target="_blank">
   <img src="GRC.png" alt="Certificate" width="150"/>
 </a>
-
+ <a href="https://github.com/alfonsonyc2005/alfonsonyc2005/blob/795bc78aa50f38a94ba7a7fae58f46a142df526d/SplunkCoreCertifiedUser_Badge20251002-28-nfqe5e.pdf" target="_blank">
+  <img src="splunk.png" alt="Certificate" width="150"/>
+</a>
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="AlfonsoPadilla | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
