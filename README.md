@@ -13,22 +13,22 @@
   - [Active Directory Home Lab](https://github.com/alfonsonyc2005/Active_DirectoryLab/blob/main/README.md)
   
 
-- [GRC Mastery](https://raw.githubusercontent.com/alfonsonyc2005/alfonsonyc2005/main/grcmastery.png)
+<br><br>
 
 <h2>📄Certifications</h2>
 
  <a href="https://raw.githubusercontent.com/alfonsonyc2005/alfonsonyc2005/main/ISC@.png" target="_blank">
-  <img src="CISSP.png" alt="Certificate" width="200"/>
+  <img src="CISSP.png" alt="Certificate" width="150"/>
 </a>
  <a href="https://raw.githubusercontent.com/alfonsonyc2005/alfonsonyc2005/main/microsoft.png" target="_blank">
-  <img src="az900.png" alt="Certificate" width="200"/>
+  <img src="az900.png" alt="Certificate" width="150"/>
 </a>
 
  <a href="https://raw.githubusercontent.com/alfonsonyc2005/alfonsonyc2005/main/MSsecurity.png" target="_blank">
-  <img src="sc-900.png" alt="Certificate" width="200"/>
+  <img src="sc-900.png" alt="Certificate" width="150"/>
 </a>
- <a href="https://raw.githubusercontent.com/alfonsonyc2005/alfonsonyc2005/main/MSsecurity.png" target="_blank">
-  <img src="sc-900.png" alt="Certificate" width="200"/>
+ <a href="https://raw.githubusercontent.com/alfonsonyc2005/alfonsonyc2005/main/grcmastery.png" target="_blank">
+  <img src="GRC.png" alt="Certificate" width="150"/>
 </a>
 
 <h2> 🤳 Connect with me:</h2>
