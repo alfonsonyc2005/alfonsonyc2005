@@ -11,7 +11,7 @@
 
 - <b>Active Directory Home Lab using PowerShell</b>
   - [Active Directory Home Lab](https://github.com/alfonsonyc2005/Active_DirectoryLab/blob/main/README.md)
-  https://github.com/alfonsonyc2005/alfonsonyc2005/blob/795bc78aa50f38a94ba7a7fae58f46a142df526d/SplunkCoreCertifiedUser_Badge20251002-28-nfqe5e.pdf
+  
 
 <br><br>
 
