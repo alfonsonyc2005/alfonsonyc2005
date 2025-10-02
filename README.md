@@ -21,6 +21,9 @@
 - [Microsoft Certified: Azure Fundamentals (AZ-900)](https://raw.githubusercontent.com/alfonsonyc2005/alfonsonyc2005/main/microsoft.png)
 - [Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)](https://raw.githubusercontent.com/alfonsonyc2005/alfonsonyc2005/main/MSsecurity.png)
 - [GRC Mastery](https://raw.githubusercontent.com/alfonsonyc2005/alfonsonyc2005/main/grcmastery.png)
+ <a href="https://raw.githubusercontent.com/alfonsonyc2005/alfonsonyc2005/main/MSsecurity.png)" target="_blank">
+  <img src="sc-900.png" alt="Certificate" width="200"/>
+</a>
 
 <h2> 🤳 Connect with me:</h2>
 
