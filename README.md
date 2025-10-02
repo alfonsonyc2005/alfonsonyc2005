@@ -17,7 +17,7 @@ https://raw.githubusercontent.com/alfonsonyc2005/alfonsonyc2005/main/CISSP.png
 
 <h2>📄Certifications</h2>
 
- <a href="https://raw.githubusercontent.com/alfonsonyc2005/alfonsonyc2005/main/CISSP.png" target="_blank">
+ <a href="https://raw.githubusercontent.com/alfonsonyc2005/alfonsonyc2005/main/ISC@.png" target="_blank">
   <img src="CISSP.png" alt="Certificate" width="200"/>
 </a>
 - [Microsoft Certified: Azure Fundamentals (AZ-900)](https://raw.githubusercontent.com/alfonsonyc2005/alfonsonyc2005/main/microsoft.png)
