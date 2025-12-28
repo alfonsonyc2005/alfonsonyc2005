@@ -1,42 +1,51 @@
-<h1>Hi, I'm Alfonso! 
-        Cybersecurity Professional</h1>
+<h1>Hi, I'm Alfonso Padilla</h1>
+<h3>Cybersecurity | Identity & Access Management | Cloud Security</h3>
 
-<h2>👨‍💻 My Projects:</h2>
+<p>
+Cybersecurity professional with hands-on experience designing and securing 
+<strong>hybrid identity environments</strong>, building <strong>cloud detection pipelines</strong>, 
+and automating identity operations using PowerShell and Microsoft Entra ID.
+</p>
 
-- <b>IAM Project: From On-Premises to Modern Hybrid Identity with SSO</b>
-  - [On-Prem to Hybrid Identity with SSO](https://github.com/alfonsonyc2005/IAM_Lab)
+---
 
-- <b>Azure / Cloud Cybersecurity Project</b>
-  - [Creating a Live SOC / Honeynet in Azure](https://github.com/alfonsonyc2005/Azure-SOC/blob/main/README.md)
+<h2>👨‍💻 Featured Projects</h2>
 
-- <b>Active Directory Home Lab using PowerShell</b>
-  - [Active Directory Home Lab](https://github.com/alfonsonyc2005/Active_DirectoryLab/blob/main/README.md)
-  
+<b>Hybrid Identity & IAM</b>  
+Design and implementation of a hybrid Active Directory and Microsoft Entra ID environment with federated SSO and MFA enforcement.  
+🔗 <a href="https://github.com/alfonsonyc2005/IAM_Lab">On-Prem to Hybrid Identity with SSO</a>
 
 <br><br>
 
-<h2>📄Certifications</h2>
+<b>Azure SOC & Detection Engineering</b>  
+Deployed a live cloud honeynet to analyze real-world attack telemetry using Microsoft Sentinel and Log Analytics, then measured the impact of security hardening.  
+🔗 <a href="https://github.com/alfonsonyc2005/Azure-SOC">Azure SOC / Honeynet</a>
 
- <a href="https://raw.githubusercontent.com/alfonsonyc2005/alfonsonyc2005/main/ISC@.png" target="_blank">
-  <img src="CISSP.png" alt="Certificate" width="150"/>
-</a>
- <a href="https://raw.githubusercontent.com/alfonsonyc2005/alfonsonyc2005/main/microsoft.png" target="_blank">
-  <img src="az900.png" alt="Certificate" width="150"/>
-</a>
+<br><br>
 
- <a href="https://raw.githubusercontent.com/alfonsonyc2005/alfonsonyc2005/main/MSsecurity.png" target="_blank">
-  <img src="sc-900.png" alt="Certificate" width="150"/>
-</a>
- <a href="https://raw.githubusercontent.com/alfonsonyc2005/alfonsonyc2005/main/grcmastery.png" target="_blank">
-  <img src="GRC.png" alt="Certificate" width="150"/>
-</a>
- <a href="https://github.com/alfonsonyc2005/alfonsonyc2005/blob/795bc78aa50f38a94ba7a7fae58f46a142df526d/SplunkCoreCertifiedUser_Badge20251002-28-nfqe5e.pdf" target="_blank">
-  <img src="splunk.png" alt="Certificate" width="150"/>
-</a>
-<h2> 🤳 Connect with me:</h2>
+<b>Active Directory & Automation</b>  
+Built an on-prem Active Directory lab and automated bulk user provisioning (~1,000 users) using PowerShell to demonstrate identity lifecycle management.  
+🔗 <a href="https://github.com/alfonsonyc2005/Active_DirectoryLab">Active Directory Home Lab</a>
 
-[<img align="left" alt="AlfonsoPadilla | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+---
 
-[linkedin]: https://www.linkedin.com/in/alfonso-padilla-tech9
+<h2>📄 Certifications</h2>
+
+<p>
+<img src="CISSP.png" alt="CISSP" width="170"/>
+<img src="az900.png" alt="AZ-900" width="130"/>
+<img src="sc-900.png" alt="SC-900" width="130"/>
+<img src="splunk.png" alt="Splunk Certified User" width="130"/>
+<img src="GRC.png" alt="GRC Mastery" width="130"/>
+</p>
+
+---
+
+<h2>🤝 Connect</h2>
+
+<a href="https://www.linkedin.com/in/alfonso-padilla-tech9">
+  <img alt="LinkedIn" width="30px" 
+  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
 
