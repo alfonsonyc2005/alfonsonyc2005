@@ -1,13 +1,13 @@
 <h1>Hi, I'm Alfonso Padilla</h1>
-<h3>Cybersecurity | Identity & Access Management | Cloud Security</h3>
+<h3>Senior SOC Analyst | IAM & Cloud Security | Microsoft Security Stack</h3>
 
 <p>
-Cybersecurity professional with hands-on experience designing and securing 
-<strong>hybrid identity environments</strong>, building <strong>cloud detection pipelines</strong>, 
-and automating identity operations using PowerShell and Microsoft Entra ID.
+I’m a cybersecurity professional with a strong foundation in security operations, threat detection, and incident response across hybrid enterprise environments. My experience spans endpoint, identity, and cloud security, with hands-on work using Microsoft Defender, Sentinel, and Entra ID to investigate threats and strengthen organizational defenses.
+</p>
+<p>
+I’m currently focused on expanding into Identity & Access Management and Cloud Security Engineering, with particular interest in Zero Trust architecture, identity governance, and cloud-native detection engineering. My projects demonstrate practical experience designing hybrid identity environments, building Azure-based SOC capabilities, and automating identity operations using PowerShell.
 </p>
 
----
 
 <h2>👨‍💻 Featured Projects</h2>
 
