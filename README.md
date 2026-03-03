@@ -32,11 +32,11 @@ Built an on-prem Active Directory lab and automated bulk user provisioning (~1,0
 <h2>📄 Certifications</h2>
 
 <p>
-<img src="CISSP.png" alt="CISSP" width="170"/>
-<img src="az900.png" alt="AZ-900" width="130"/>
-<img src="sc-900.png" alt="SC-900" width="130"/>
-<img src="splunk.png" alt="Splunk Certified User" width="130"/>
-<img src="GRC.png" alt="GRC Mastery" width="130"/>
+<img src="images/CISSP.png" alt="CISSP" width="170"/>
+<img src="images/az900.png" alt="AZ-900" width="130"/>
+<img src="images/sc-900.png" alt="SC-900" width="130"/>
+<img src="images/splunk.png" alt="Splunk Certified User" width="130"/>
+<img src="images/GRC.png" alt="GRC Mastery" width="130"/>
 </p>
 
 ---
