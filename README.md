@@ -17,7 +17,7 @@ Design and implementation of a hybrid Active Directory and Microsoft Entra ID en
 
 <br><br>
 
-<b>Azure SOC & Detection Engineering</b>  
+<b>Azure SOC & Security Engineering</b>  
 Deployed a live cloud honeynet to analyze real-world attack telemetry using Microsoft Sentinel and Log Analytics, then measured the impact of security hardening.  
 🔗 <a href="https://github.com/alfonsonyc2005/Azure-SOC">Azure SOC / Honeynet</a>
 
