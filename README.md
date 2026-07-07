@@ -43,7 +43,9 @@ Built an on-prem Active Directory lab and automated bulk user provisioning (~1,0
 
 <h2>🤝 Connect</h2>
 
-<a href="https://www.linkedin.com/in/alfonso-padilla">
+<a href="https://www.linkedin.com/in/alfonso-padilla"
+   target="_blank"
+   rel="noopener noreferrer">
   <img alt="LinkedIn" width="30px" 
   src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
